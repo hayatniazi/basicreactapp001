@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-
+import './Apps.css';
 function App() {
-  return (
+  return <div>
     <div>AssalamoAlikum Hayat Muhammad Niazi!</div>
     <h1>Example of ordered and unordered list.</h1>
     <h3>Ordered list</h3>
@@ -20,7 +20,7 @@ function App() {
   <li>UAE</li>
   <li>Australia</li>
 </ul>
-  );
+</div>
 }
 
 export default App;
