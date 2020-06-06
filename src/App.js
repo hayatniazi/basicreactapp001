@@ -4,7 +4,7 @@ import './Apps.css';
 function App() {
   return <div>
     <div>AssalamoAlikum Hayat Muhammad Niazi!</div>
-    <h1>Example of ordered and unordered list.</h1>
+    <h2>Example of ordered and unordered list.</h2>
     <h3>Ordered list</h3>
     <ol>
       <li>Pakistan</li>
