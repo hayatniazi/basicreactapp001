@@ -3,9 +3,9 @@ import './App.css';
 import './Apps.css';
 function App() {
   return <div>
-    <div>AssalamoAlikum Hayat Muhammad Niazi!</div>
-    <h2>Example of ordered and unordered list.</h2>
-    <h3>Ordered list</h3>
+    <h1>AssalamoAlikum Hayat Muhammad Niazi!</h1>
+    <h1>Example of ordered and unordered list.</h1>
+    <h2>Ordered list</h2>
     <ol>
       <li>Pakistan</li>
       <li>Saudi Arabia</li>
@@ -13,7 +13,7 @@ function App() {
       <li>Australia</li>
     </ol>
 
-<h3>Unrdered list</h3>
+<h2>Unrdered list</h2>
 <ul>
   <li>Pakistan</li>
   <li>Saudi Arabia</li>
