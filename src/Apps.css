@@ -1,22 +1,7 @@
+h1 { color: #ff4411; font-size: 48px; font-family: 'Signika', sans-serif; padding-bottom: 10px; }
 
-   
-  h2 {
-    font: 200 20px/1 Helvetica, Verdana, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  h1 {
-    font: 400 40px/1.5 Helvetica, Verdana, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  ol {
-    counter-reset: li; /* Initiate a counter */
-    list-style: none; /* Remove default numbering */
-    *list-style: decimal; /* Keep using default numbering for IE6/7 */
-    font: 15px 'trebuchet MS', 'lucida sans';
-    padding: 0;
-    margin-bottom: 4em;
-    text-shadow: 0 1px 0 rgba(255,255,255,.5);
-  }
+
+p { font-family: 'Inder', sans-serif; line-height: 28px; margin-bottom: 15px; color: #666; }
+
+
+
